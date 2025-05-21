@@ -112,8 +112,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Citations:
-[1] https://github.com/HecJB/DangoTestnet
-
----
-Answer from Perplexity: https://www.perplexity.ai/search/arizona-company-programmer-PHRV.7S9RNOYammTwerPNw?utm_source=copy_output
