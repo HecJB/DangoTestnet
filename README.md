@@ -1,6 +1,4 @@
-Sure! Here's a professional and comprehensive **README.md** file draft for your GitHub repository **HecJB/DangoTestnet** based on the description "Full automation script to interact with Dango Testnet-1.5":
 
-```markdown
 # DangoTestnet
 
 **Full automation script to interact with Dango Testnet-1.5**
@@ -113,19 +111,6 @@ Contributions and improvements are welcome! Please open issues or pull requests.
 This project is licensed under the MIT License.
 
 ---
-
-## Contact
-
-For questions or support, please open an issue on GitHub or contact the maintainer.
-
----
-
-Happy testing on Dango Testnet! 🚀
-```
-
----
-
-If you want, I can also help you generate a `requirements.txt` or provide a sample `dango_automation.py` script to go with this README. Just let me know!
 
 Citations:
 [1] https://github.com/HecJB/DangoTestnet
